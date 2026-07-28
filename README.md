@@ -8,8 +8,6 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0+-06B6D4.svg)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
----
-
 ## 📖 Table of Contents
 - [🌟 Features](#-features)
 - [🏗️ Architecture](#️-architecture)
@@ -22,8 +20,6 @@
 - [🧪 Testing](#-testing)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
-
----
 
 ## 🌟 Features
 
@@ -76,8 +72,6 @@
 - **Auto-documentation**: Generate dataset descriptions
 - **Code Suggestions**: Python snippets for your analysis
 
----
-
 ## 🏗️ Architecture
 
 ### **High-Level Architecture**
@@ -115,8 +109,6 @@
 | **React Hook Form** | Forms | 7.43+ |
 | **Framer Motion** | Animations | 10.0+ |
 | **React Query** | State Management | 4.29+ |
-
----
 
 ## ⚡ Quick Start
 
